@@ -1,0 +1,18 @@
+/* SeleccionarTransaccion.css */
+.seleccionar-transaccion {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .seleccionar-transaccion select {
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+  }
+  
+  .seleccionar-transaccion h2 {
+    color: #4caf50; /* Verde pistacho */
+  }
+  
